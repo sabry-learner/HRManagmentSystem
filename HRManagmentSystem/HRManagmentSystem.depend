@@ -1,0 +1,264 @@
+# depslib dependency file v1.0
+1682642007 source:c:\users\leader\desktop\oop1\hrmanagmentsystem\benefit.cpp
+	"Benefit.h"
+
+1683153477 "
+
+1682642007 c:\users\leader\desktop\oop1\hrmanagmentsystem\benefit.h
+
+1682642329 source:c:\users\leader\desktop\oop1\hrmanagmentsystem\commissionemployee.cpp
+	"CommissionEmployee.h"
+
+1683158775 nEmployee.h"
+
+1682642329 c:\users\leader\desktop\oop1\hrmanagmentsystem\commissionemployee.h
+
+1682642066 source:c:\users\leader\desktop\oop1\hrmanagmentsystem\dentalbenefit.cpp
+	"DentalBenefit.h"
+
+1683158752 efit.h"
+
+1682642066 c:\users\leader\desktop\oop1\hrmanagmentsystem\dentalbenefit.h
+
+1682766306 source:c:\users\leader\desktop\oop1\hrmanagmentsystem\departement.cpp
+	"Departement.h"
+	<iostream>
+	<string>
+
+1683125140 
+
+1682767291 c:\users\leader\desktop\oop1\hrmanagmentsystem\departement.h
+	<iostream>
+	<string>
+
+1682642159 source:c:\users\leader\desktop\oop1\hrmanagmentsystem\employee.cpp
+	"Employee.h"
+
+1683158533 h"
+
+1682642159 c:\users\leader\desktop\oop1\hrmanagmentsystem\employee.h
+
+1682642093 source:c:\users\leader\desktop\oop1\hrmanagmentsystem\healthbenefit.cpp
+	"HealthBenefit.h"
+
+1682642092 c:\users\leader\desktop\oop1\hrmanagmentsystem\healthbenefit.h
+
+1682642193 source:c:\users\leader\desktop\oop1\hrmanagmentsystem\hourlyemployee.cpp
+	"HourlyEmployee.h"
+
+1683158685 loyee.h"
+
+1682642193 c:\users\leader\desktop\oop1\hrmanagmentsystem\hourlyemployee.h
+
+1682642691 source:c:\users\leader\desktop\oop1\hrmanagmentsystem\hrsystem.cpp
+	"HRSystem.h"
+
+1682642691 c:\users\leader\desktop\oop1\hrmanagmentsystem\hrsystem.h
+
+1682766345 source:c:\users\leader\desktop\oop1\hrmanagmentsystem\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<windows.h>
+	"Departement.h"
+
+1683158752 nt.h"
+
+1682642287 source:c:\users\leader\desktop\oop1\hrmanagmentsystem\manageremployee.cpp
+	"ManagerEmployee.h"
+
+1683158619 ployee.h"
+
+1682642286 c:\users\leader\desktop\oop1\hrmanagmentsystem\manageremployee.h
+
+1682642252 source:c:\users\leader\desktop\oop1\hrmanagmentsystem\salariedemployee.cpp
+	"SalariedEmployee.h"
+
+1683158603 mployee.h"
+
+1682642252 c:\users\leader\desktop\oop1\hrmanagmentsystem\salariedemployee.h
+
+1683158784 source:c:\users\leader\desktop\oop2\hrmanagmentsystem\benefit.cpp
+	"Benefit.h"
+
+1682792895 c:\users\leader\desktop\oop2\hrmanagmentsystem\benefit.h
+	<iostream>
+	<string>
+
+1683158775 source:c:\users\leader\desktop\oop2\hrmanagmentsystem\commissionemployee.cpp
+	"CommissionEmployee.h"
+
+1683125148 c:\users\leader\desktop\oop2\hrmanagmentsystem\commissionemployee.h
+	"Employee.h"
+	<iostream>
+	<string>
+
+1683158764 source:c:\users\leader\desktop\oop2\hrmanagmentsystem\dentalbenefit.cpp
+	"DentalBenefit.h"
+
+1682793145 c:\users\leader\desktop\oop2\hrmanagmentsystem\dentalbenefit.h
+	"Benefit.h"
+	<iostream>
+	<string>
+
+1683158752 source:c:\users\leader\desktop\oop2\hrmanagmentsystem\departement.cpp
+	"Departement.h"
+
+1683125153 c:\users\leader\desktop\oop2\hrmanagmentsystem\departement.h
+	<iostream>
+	<string>
+
+1683158706 source:c:\users\leader\desktop\oop2\hrmanagmentsystem\healthbenefit.cpp
+	"HealthBenefit.h"
+
+1682793299 c:\users\leader\desktop\oop2\hrmanagmentsystem\healthbenefit.h
+	"Benefit.h"
+	<iostream>
+	<string>
+
+1683158685 source:c:\users\leader\desktop\oop2\hrmanagmentsystem\hourlyemployee.cpp
+	"HourlyEmployee.h"
+
+1683158574 c:\users\leader\desktop\oop2\hrmanagmentsystem\hourlyemployee.h
+	"Employee.h"
+
+1683158685 source:c:\users\leader\desktop\oop2\hrmanagmentsystem\hrsystem.cpp
+	"HRSystem.h"
+	"HourlyEmployee.h"
+	"SalariedEmployee.h"
+	"CommissionEmployee.h"
+	"ManagerEmployee.h"
+
+1683153597 c:\users\leader\desktop\oop2\hrmanagmentsystem\hrsystem.h
+	<iostream>
+	<string>
+	"Employee.h"
+
+1683158533 source:c:\users\leader\desktop\oop2\hrmanagmentsystem\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<windows.h>
+	"Departement.h"
+	"HRSystem.h"
+
+1683158619 source:c:\users\leader\desktop\oop2\hrmanagmentsystem\manageremployee.cpp
+	"ManagerEmployee.h"
+
+1682789645 c:\users\leader\desktop\oop2\hrmanagmentsystem\manageremployee.h
+	"SalariedEmployee.h"
+	"Employee.h"
+	<iostream>
+	<string>
+
+1683158603 source:c:\users\leader\desktop\oop2\hrmanagmentsystem\salariedemployee.cpp
+	"SalariedEmployee.h"
+
+1683125140 c:\users\leader\desktop\oop2\hrmanagmentsystem\salariedemployee.h
+	"Employee.h"
+	<iostream>
+	<string>
+
+1683153477 c:\users\leader\desktop\oop2\hrmanagmentsystem\employee.h
+	"Departement.h"
+	<iostream>
+	<string>
+	"Benefit.h"
+
+1683158752 source:c:\users\leader\desktop\oop2\hrmanagmentsystem\employee.cpp
+	"Employee.h"
+	"HealthBenefit.h"
+	"DentalBenefit.h"
+
+1683158784 source:/mnt/learn/Programming/p2/HRManagmentSystem/Benefit.cpp
+	"Benefit.h"
+
+1682792895 /mnt/learn/Programming/p2/HRManagmentSystem/Benefit.h
+	<iostream>
+	<string>
+
+1683158775 source:/mnt/learn/Programming/p2/HRManagmentSystem/CommissionEmployee.cpp
+	"CommissionEmployee.h"
+
+1683125148 /mnt/learn/Programming/p2/HRManagmentSystem/CommissionEmployee.h
+	"Employee.h"
+	<iostream>
+	<string>
+
+1683153477 /mnt/learn/Programming/p2/HRManagmentSystem/Employee.h
+	"Departement.h"
+	<iostream>
+	<string>
+	"Benefit.h"
+
+1683125153 /mnt/learn/Programming/p2/HRManagmentSystem/Departement.h
+	<iostream>
+	<string>
+
+1683158764 source:/mnt/learn/Programming/p2/HRManagmentSystem/DentalBenefit.cpp
+	"DentalBenefit.h"
+
+1682793145 /mnt/learn/Programming/p2/HRManagmentSystem/DentalBenefit.h
+	"Benefit.h"
+	<iostream>
+	<string>
+
+1683158752 source:/mnt/learn/Programming/p2/HRManagmentSystem/Departement.cpp
+	"Departement.h"
+
+1683158752 source:/mnt/learn/Programming/p2/HRManagmentSystem/Employee.cpp
+	"Employee.h"
+	"HealthBenefit.h"
+	"DentalBenefit.h"
+
+1682793299 /mnt/learn/Programming/p2/HRManagmentSystem/HealthBenefit.h
+	"Benefit.h"
+	<iostream>
+	<string>
+
+1683158706 source:/mnt/learn/Programming/p2/HRManagmentSystem/HealthBenefit.cpp
+	"HealthBenefit.h"
+
+1683158685 source:/mnt/learn/Programming/p2/HRManagmentSystem/HourlyEmployee.cpp
+	"HourlyEmployee.h"
+
+1683158574 /mnt/learn/Programming/p2/HRManagmentSystem/HourlyEmployee.h
+	"Employee.h"
+
+1683158685 source:/mnt/learn/Programming/p2/HRManagmentSystem/HRSystem.cpp
+	"HRSystem.h"
+	"HourlyEmployee.h"
+	"SalariedEmployee.h"
+	"CommissionEmployee.h"
+	"ManagerEmployee.h"
+
+1683153597 /mnt/learn/Programming/p2/HRManagmentSystem/HRSystem.h
+	<iostream>
+	<string>
+	"Employee.h"
+
+1683125140 /mnt/learn/Programming/p2/HRManagmentSystem/SalariedEmployee.h
+	"Employee.h"
+	<iostream>
+	<string>
+
+1682789645 /mnt/learn/Programming/p2/HRManagmentSystem/ManagerEmployee.h
+	"SalariedEmployee.h"
+	"Employee.h"
+	<iostream>
+	<string>
+
+1683158533 source:/mnt/learn/Programming/p2/HRManagmentSystem/main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<windows.h>
+	"Departement.h"
+	"HRSystem.h"
+
+1683158619 source:/mnt/learn/Programming/p2/HRManagmentSystem/ManagerEmployee.cpp
+	"ManagerEmployee.h"
+
+1683158603 source:/mnt/learn/Programming/p2/HRManagmentSystem/SalariedEmployee.cpp
+	"SalariedEmployee.h"
+
